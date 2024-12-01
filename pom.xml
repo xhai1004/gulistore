@@ -20,7 +20,7 @@
     <module>gulistore-coupon</module>
     <module>gulistore-order</module>
     <module>gulistore-ware</module>
-    <module>renren-fast</module>
+    <module>RuoYi-Vue</module>
   </modules>
 
   <dependencyManagement>

@@ -19,3 +19,5 @@ buildNumber.properties
 .idea/
 **/target/
 **/.gitignore
+**/*.md
+**/ruoyi-ui/dist/
